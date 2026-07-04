@@ -1,100 +1,86 @@
-# iPod Video 5.5 Gen Refurb 🎧
+# iPod Video 5.5 Gen refurb 🎧
 
-This is my refurb project for an **Apple iPod Video 5.5 Gen**. I wanted to bring an old iPod back to life as a proper offline music player: new battery, nicer shell, fixed buttons, repaired headphone jack ribbon holder, and Rockbox installed with dual boot.
+Just a small project where I fixed up an old **iPod Video 5.5 Gen** and made it usable again.
 
-It is not meant to be some crazy maxed-out build. I mostly wanted a clean, usable iPod that feels good to hold, works reliably, and can play music without needing streaming or a phone.
+I wanted this thing to be a simple offline music player. No streaming, no apps, no distractions, just music. The iPod was a bit rough when I got into it, so I replaced some parts, fixed some annoying issues, and installed Rockbox so it is nicer to use.
 
-## The iPod 📌
+## iPod info
 
-- **Model:** Apple iPod Video 5.5 Gen
-- **Model number:** A1136
-- **Original capacity:** 30 GB
-- **Body:** thin 30 GB version
-- **Serial:** `9C7108YBV9M`
-- **Serial suffix:** `V9M`
-- **Original firmware I saw:** Apple firmware 1.3
-- **Usable storage:** around 27.8 GB
-- **Original storage:** 1.8-inch ZIF hard drive
-- **Original battery marking:** `616-0229`
+- Apple iPod Video 5.5 Gen
+- Model number: `A1136`
+- 30 GB thin version
+- Serial: `9C7108YBV9M`
+- Serial ending: `V9M`
+- Original Apple firmware I saw: `1.3`
+- Usable storage was around `27.8 GB`
+- Original drive is the 1.8-inch ZIF hard drive
+- Original battery marking was `616-0229`
 
-## What Was Wrong 🔧
+## What was wrong with it 🔧
 
-The iPod was already opened up during the project, and it definitely needed some love.
+The iPod had definitely been used. The outside was scratched up, the battery was old, and the buttons did not feel right anymore.
 
-- The old battery needed replacing.
-- The buttons did not feel properly clicky anymore.
-- The headphone / MP3 jack ribbon cable holder was broken.
-- The front and back plates were scratched and worn.
-- The click wheel and shell needed a refresh.
-- I also looked into replacing the hard drive, but it turned out to be in really good condition.
+The headphone / MP3 jack ribbon cable holder was also broken, so that had to be replaced too. I opened it up thinking I might also change the hard drive, but after checking it, the drive was actually still really good, so I left it in.
 
-## What I Changed ✅
+## What I changed
 
-- Replaced the battery with an iPod Video 30 GB compatible iFixit battery.
-- Fixed the buttons so they feel clicky again.
-- Replaced the broken ribbon cable holder for the headphone jack assembly.
-- Checked the original hard drive and decided to keep it because it was still working very well.
-- Replaced the old front plate.
-- Replaced the old back plate.
-- Replaced the click wheel.
-- Added a new red/black style case setup.
-- Added a clear protective case.
-- Installed Rockbox.
-- Set it up for dual boot with the original Apple firmware.
+- changed the battery
+- fixed the buttons so they are clicky again
+- replaced the broken headphone jack ribbon cable holder
+- checked the hard drive and kept it because it was still good
+- changed the front plate
+- changed the back plate
+- changed the click wheel
+- added the new red/black case parts
+- put it in a clear case
+- installed Rockbox
+- set it up so it can still boot the normal Apple firmware too
 
-## Parts I Used 🧰
+## Parts I used 🧰
 
-| Part | Why I got it | Cost |
-| --- | --- | ---: |
-| Clear thin protective case | To protect the finished iPod | EUR 5.90 |
-| Red front plate + rear housing / shell set | Cosmetic refresh | EUR 33.45 |
-| iFixit iPod Video 30 GB battery | Battery replacement | EUR 18.85 |
-| iFlash-Solo + HDD ribbon | Planned future flash upgrade | EUR 52.37 |
-| 128 GB microSD card | Planned future storage option | Not confirmed |
+- clear thin protective case
+- red front plate and rear housing / shell set
+- iFixit iPod Video 30 GB battery
+- replacement click wheel
+- headphone jack ribbon holder / related small part
+- iFlash-Solo and HDD ribbon, bought for a possible storage upgrade later
+- 128 GB microSD card, also for a possible future flash mod
 
-Confirmed visible spend before the SD card: **EUR 110.57**.
+I was originally going to do the iFlash storage mod, but I did not end up doing it for now because the original drive was surprisingly healthy.
 
-## Storage Notes 💾
+## Storage 💾
 
-My original idea was to replace the 30 GB hard drive with an iFlash-Solo and a 128 GB microSD card.
+The iPod is still using its original 30 GB hard drive.
 
-After checking the hard drive, I decided not to replace it yet because it was still in very good condition. So for now the iPod keeps its original 30 GB 1.8-inch ZIF hard drive.
-
-The iFlash-Solo is still a nice future upgrade if I ever want more storage or if the original drive starts acting up.
+I know flash storage would be better long term, and I already looked into the iFlash-Solo route, but it felt unnecessary for this build right now. If the hard drive starts making problems later, then I can still swap it.
 
 ## Battery 🔋
 
-I used an **iFixit iPod Video 30 GB replacement battery**, which fits the thin 30 GB body.
+I used a normal iPod Video 30 GB replacement battery from iFixit.
 
-I avoided the huge advertised battery mods for this build because a lot of those need a thick back plate, different internal spacing, and more careful ribbon cable routing. For this iPod, I wanted a practical refurb that closes properly and stays reliable.
+I did not go for one of those huge battery mods because this is the thin 30 GB model, and I did not want to mess around with thick backs or weird fitment problems. I just wanted it to close properly and work.
 
-## Case And Looks ✨
+## Case / look ✨
 
-The final style is a red/black custom iPod Video with a clear case over it.
+The final look is basically red and black with a clear case over it.
 
-- Red front / housing
-- Replaced back plate
-- Replaced click wheel
-- Clear thin protective case
-- Original serial-number back plate kept with the project if needed
+The old back plate is scratched, but it has the original serial number on it, so I am keeping it with the project instead of throwing it away.
 
-The original back plate is scratched, but it has the real serial number on it, so I do not want to throw it away.
+## Rockbox 🎵
 
-## Rockbox And Dual Boot 🎵
+I installed Rockbox and set up dual boot.
 
-I installed Rockbox and kept the original Apple firmware available through dual boot.
+- normal boot goes into Rockbox
+- to boot the Apple firmware, turn it on and switch Hold on right away
+- force restart is Menu + Center
+- disk mode is Menu + Center, then Center + Play/Pause
+- shutdown in Rockbox is holding Play/Pause
 
-- **Normal boot:** Rockbox
-- **Apple firmware:** turn the iPod on and immediately switch Hold ON
-- **Force restart:** hold Menu + Center/Select
-- **Disk Mode:** Menu + Center, then Center/Select + Play/Pause
-- **Shutdown in Rockbox:** hold Play/Pause
+Rockbox is the main reason I wanted to do this. It makes the iPod feel way more useful, and I can just copy music into folders instead of dealing with iTunes.
 
-Rockbox makes the iPod way more flexible because I can just copy music over in folders instead of depending on iTunes.
+## Music folders 📁
 
-## Music Folder Setup 📁
-
-I plan to keep the music folder structure simple:
+I am keeping the music folders simple:
 
 ```text
 /Music/
@@ -104,49 +90,20 @@ I plan to keep the music folder structure simple:
       02 Track Name.flac
 ```
 
-Rockbox can build a database too, but folder browsing is simple and works well.
+Folder browsing is good enough for me. I might use the Rockbox database later, but I do not really need it.
 
-## Final Build 🏁
+## Current build
 
 ```text
 iPod Video 5.5 Gen A1136
 30 GB thin model
-original 30 GB hard drive kept
-new iFixit battery
-buttons repaired
-headphone jack ribbon holder replaced
-red/black cosmetic refresh
-clear protective case
+original 30 GB hard drive
+new battery
+fixed buttons
+fixed headphone jack ribbon holder
+red/black shell
+clear case
 Rockbox + Apple firmware dual boot
-offline music player
 ```
 
-## Done / To Do 📝
-
-- [x] Replace battery
-- [x] Fix buttons
-- [x] Replace broken headphone jack ribbon holder
-- [x] Inspect hard drive
-- [x] Keep original hard drive because it is still good
-- [x] Replace front plate
-- [x] Replace back plate
-- [x] Replace click wheel
-- [x] Add new case
-- [x] Install Rockbox
-- [x] Set up dual boot
-- [ ] Add photos of the final build
-- [ ] Add exact Rockbox version
-- [ ] Add hard drive health screenshots if I test it again later
-
-## Notes For Later 🛠️
-
-Things I want to keep with the project:
-
-- Original 30 GB hard drive
-- Original scratched serial-number back plate
-- Original front plate
-- Original screws and small brackets
-- Old ribbons unless they are damaged
-- iFlash-Solo and 128 GB microSD parts for a possible future upgrade
-
-Overall, this was a nice practical refurb. The iPod looks cleaner, the buttons feel better, the battery is fresh, the headphone jack assembly is fixed, and Rockbox makes it much nicer to use as a dedicated music player.
+That is basically it. It is not perfect or anything, but it looks much better now, the buttons feel better, and it works as a nice little offline music player.
